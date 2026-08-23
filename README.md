@@ -4,6 +4,16 @@ A small PyTorch implementation of the **Cross-Entropy Method (CEM)** for reinfor
 
 The project is primarily intended as a learning-focused implementation of CEM: the agent generates complete episodes, keeps the highest-performing episodes, and trains a policy network to reproduce the actions taken in those elite trajectories.
 
+## Demo
+
+### Trained Agent — CartPole-v1
+
+The following video shows the trained agent playing CartPole after learning with the Cross-Entropy Method.
+
+<video src="https://raw.githubusercontent.com/anantlahamge07/cross-entropy-method-rl/main/video/rl-video-episode-729.mp4" controls width="700"></video>
+
+[Watch the latest recorded episode](https://github.com/anantlahamge07/cross-entropy-method-rl/blob/main/video/rl-video-episode-729.mp4)
+
 ## Overview
 
 The Cross-Entropy Method is a relatively simple policy-search approach:
