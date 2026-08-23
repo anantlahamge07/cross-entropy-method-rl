@@ -8,11 +8,8 @@ The project is primarily intended as a learning-focused implementation of CEM: t
 
 ### Trained Agent — CartPole-v1
 
-The following video shows the trained agent playing CartPole after learning with the Cross-Entropy Method.
+<img width="320" height="213" alt="cartpole-demo-small" src="https://github.com/user-attachments/assets/a4765d2d-d696-465e-ae53-6f30d5e3b669" />
 
-<video src="https://raw.githubusercontent.com/anantlahamge07/cross-entropy-method-rl/main/video/rl-video-episode-729.mp4" controls width="700"></video>
-
-[Watch the latest recorded episode](https://github.com/anantlahamge07/cross-entropy-method-rl/blob/main/video/rl-video-episode-729.mp4)
 
 ## Overview
 
